@@ -1,4 +1,4 @@
-//question 7 for homework loops
+//question 7 for homework loops a
 using System;
 
 class Program
